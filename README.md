@@ -4,6 +4,10 @@
 
 This project captures an image using a webcam, describes the image using Azure Cognitive Services, and translates the description into multiple languages. The translated descriptions are then played as audio through a speaker. The project is implemented using a Raspberry Pi with button controls to switch between languages.
 
+## Hardware Setup
+
+![Hardware Setup](hardware_setup.jpg)
+
 ## Features
 
 - **Image Capture:** Captures an image using a webcam.
